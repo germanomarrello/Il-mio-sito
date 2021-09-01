@@ -1,0 +1,35 @@
+div.main{
+
+    background-image: linear-gradient(grey,whitesmoke);
+    height: 160px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+div.main img{
+
+    float: left;
+    margin: 5px;
+    height: 150px;
+    border-radius: 5px;
+
+}
+
+h2{
+
+    color: crimson;
+    font-weight: bold;
+    font-family: monospace;
+    font-style: italic;
+
+}
+
+p.info{
+
+    font-family: cursive;
+    font-style: oblique;
+
+}
+
